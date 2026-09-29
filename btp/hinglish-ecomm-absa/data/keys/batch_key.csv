@@ -1,0 +1,390 @@
+id,review_id,app,stars,type,text,annotator
+R101,ed0366f7-d455-423a-b4d7-0343a193158c,Blinkit,2,hinglish,mujhe meri blinkit app mai language change karne ka option nahi mil raha krpya karke iss app language change karne ka option add kare,Arpita
+R102,f19a3f1f-d3bf-4794-83e4-3a81274b2cb1,Meesho,1,maybe,kor cheej mangbao to return mat 🥺🥺🥺 barna rifand nahi ata,Harsh
+R103,66859d88-8e30-4e04-bbac-08f7e1b9e3d1,Meesho,1,hinglish,totally different product bhejta hai cancelled order pe paise kaata hai help centre se help nahi milti,Punit
+R104,d61ed205-5358-40fe-a43c-8bc146f98b69,Zepto,2,hinglish,price bahut jyda hai quality k hisab se,Arpita
+R105,55561857-077c-4a25-9e02-0491966bdafe,Nykaa,1,hinglish,bahut mahnga hai product ke hisab se,Harsh
+R106,56ef401b-7bd0-44a0-a8be-3b647d4b5811,Meesho,4,maybe,pareshan bahut krta mesho,Punit
+R107,e9007f0f-8980-4684-bea0-28ca76b826ae,Zepto,1,hinglish,roorkee se koi be location par oreder nahinho raha hai,Arpita
+R108,69beadbb-3703-4f5d-b747-5c43fdeac777,Zepto,1,hinglish,zepto is cheter esse maine 2 baar electronic item mangaya dono baar esne cheat kiya ak fan aur ak glue gun dono hi kharab diya return aur replacement bola umme bhi cheat kiya delivery bol rha hai kisi aur ko kar diya mere pe khud call karke khud ki disconnect bhi kar rha hai taki wo bol sake ki customer ne call nhi uthaya . Zepto etna hadd tak gir gaya hai ki ak saman badlne me wo mujhe dhae hours se wait Kara rha hai. yai bahut hi chip quality ka saman bech rha hai .same on you.,Harsh
+R109,15d8bbe5-a6bd-474b-b939-37ec05bf4b73,Nykaa,5,hinglish,badiya aap h ladkiyo ke liya,Punit
+R110,1fa95722-5b07-4e21-99a2-37b194479196,Meesho,2,hinglish,bahut badhiya hai Bhai,Arpita
+R111,ee0dbe0e-5238-488e-a2d3-942bc3b7a7cb,Meesho,4,hinglish,abhi maine shopping nahi ki hai but kafi achha achha dresses dekha hai ye useless nahi hai,Harsh
+R112,9fc775e7-7f1a-42d8-a4ca-721c604a4ae6,Zepto,1,hinglish,mere me hota nahi hai,Punit
+R113,d7def0d0-681d-41c1-a6be-e5f57d50f846,Blinkit,1,maybe,mostly order get delayed... delivery boys bike pankchr hoti h aksar,Arpita
+R114,7d087a71-9787-4b1d-9e67-0c65733811e6,Nykaa,2,maybe,Paisa vasool shopping number one product 👍,Harsh
+R115,82bf9e02-8acb-49b5-9066-c5de651e0574,Zepto,1,hinglish,Hindi me bhi application hona chahie ismein Hindi nahin hai or cancel ka bhi option nahin ata,Punit
+R116,5c7a0cf4-4424-4c74-8ffa-d5ab742d6aca,Nykaa,5,maybe,mere sabse ek number,Arpita
+R117,e83a3618-a486-4cbd-92a2-9f82cc681284,Blinkit,1,hinglish,Delivery karne Wale aadami aur aapke material ka quality bahut hi ghatiya hai 👎,Harsh
+R118,aaba004e-0954-4d88-a593-92c17ee5fe77,Meesho,5,hinglish,bahut acha hai meesho,Punit
+R119,06a66fad-bb70-45f0-bb7f-d4167496d1fa,Meesho,1,hinglish,jo online kr raha hai un se pta kiya sb ke sb loss me ho hye jo be bhai yaa behan sabhi online application pr business krne ki soch raha hai.. mat krna kyu... pehle sale acchi hogi... paise aap ke account me nhi aaye ge.. 1 hafte tak paise ki intzaar kro feer parsal return aaye ge.. demo 100 ka aap ka product hai 200 ka sell kiya online 70 courier service kte he jb return aaye ga 70 courier service feer dene hone aap ko pta chal aap ka product 100+70+70=240 ka ho jaye ga wapis aane pr,Arpita
+R120,91a980b6-855b-417b-bbcb-d7e8d2680bce,Meesho,1,hinglish,yeh bahut kharab aap hai koi bhi danwlod may karo,Harsh
+R121,b26331a1-c569-4d79-937d-e1618c9670de,Zepto,3,hinglish,Sahi delivery hai good 😊,Punit
+R122,7d6c7eaa-f4e3-4570-b4d7-3395f018f7e2,Meesho,1,hinglish,app to achha hai lekin product dubliket ata hai,Arpita
+R123,929fe3f9-bd08-4898-bc02-5de8e4d52a55,Blinkit,3,hinglish,wheat flour order karne par bhi handling charges lete hai or handle nhi dete hai,Harsh
+R124,688866df-685d-4c05-bf9e-65c8e1cf8465,Meesho,3,hinglish,user verification failed kyu ho rha hai do id mai se ek bhi nhi chal rhi,Punit
+R125,a26a0da9-3f6c-466e-a39f-203fda4fec35,Zepto,4,hinglish,sach mein bahut achcha app hai,Arpita
+R126,b5b31a61-499e-4853-b967-353971984b84,Meesho,5,hinglish,bahut behtarin hai meesho app,Harsh
+R127,aec8b3ee-6822-442a-8594-c3c8ef0b10e5,Zepto,4,hinglish,is Aap ko mujhe bhaut pasand Aaya,Punit
+R128,06651388-92c9-4b98-87b9-2260e600947c,Meesho,4,hinglish,43% upar chal raha hai bahut hi badhiya hai,Arpita
+R129,2d9fa3ab-e670-4fc9-b1ea-b45a5f20a97e,Blinkit,1,maybe,pure edress pe nhi ata h,Harsh
+R130,72dd6582-f8ad-478b-bfb1-b44dde655a1e,Nykaa,1,hinglish,App sahi h pr ye log bolte h ki offer h discount h pr dekhne jao to aisa kuch nhi h uper se cupon bhi kaam nhi aata h,Punit
+R131,d45b4695-6a45-445e-ba12-114ad598b6c3,Nykaa,3,maybe,product milne ke badh,Arpita
+R132,7fc65669-080d-4db6-98e6-89259985db38,Nykaa,5,hinglish,bahut badhiya hai app,Harsh
+R133,6e1964b0-7240-4efe-b77a-f431b92a9139,Zepto,4,maybe,sari cheze bahut achi h,Punit
+R134,428643bd-23f5-4379-b2d5-cee4a2bbfec1,Blinkit,3,hinglish,Jabse grofer blinkit mei convert hua hai price jarurat se zyada lete hai aur delivery charges bahut hai.,Arpita
+R135,9093a0fc-8065-4c19-a582-4d9e5d17e0cf,Blinkit,1,hinglish,bahut sahi app hai free nhi deta kuchh,Harsh
+R136,33137570-29ec-4a64-a321-a12950c266fd,Meesho,2,hinglish,sab se achha hai,Punit
+R137,696cfa3e-fbe2-49b1-a6b3-e66a0754199c,Meesho,3,maybe,ye sbse gtiya aap h koe estemal na kare bhai,Arpita
+R138,cfa8e5c3-20b4-4c72-8658-1e269251d7e9,Meesho,4,maybe,Kavi kavi accha product aata ha or kavi kavi kharab or 3pic. Lena per 1pic he aata ha ghogha bhagalpur ma,Harsh
+R139,54a96d72-5e9d-4eff-8b70-876650150618,Nykaa,1,hinglish,AAJ ke baad aid. Bheji to. Court case. Hoga .samajh. nahi. Aati,Punit
+R140,90ca342a-acf3-4c23-ad09-ef501cae7e0b,Nykaa,5,hinglish,mujhe bahut Achcha Laga,Arpita
+R141,863fac12-988f-493f-8117-2388b6dcb7c7,Blinkit,2,maybe,kam Saman mangwana ho to delivery charge jyada lagta hai,Harsh
+R142,a2a9f71f-e7af-42b7-9424-35af87be4a1d,Meesho,2,hinglish,ghatiya app hai product ko hi change kar deta hai mene RCB ki jersey mangai or csk ki jersey leke aaya I don't know but koi bhi mat karna download okk,Punit
+R143,b359b7e8-dcbb-4988-859a-bb08ef41d4a1,Blinkit,1,hinglish,mujhe nahi pata kaam karta nahi,Arpita
+R144,70082d33-a843-49d9-9c43-71c8519088d2,Meesho,1,hinglish,is me me sain ap nahi ho raha he,Harsh
+R145,01258db1-73a6-447b-a5f4-8b238bd9e2d4,Zepto,5,maybe,bahut achcha service achcha se mangta hun,Punit
+R146,f31bcbc1-bf75-41ad-b3e1-262e359d8752,Meesho,4,hinglish,yanha kapde achen or sasta hai thik hai,Arpita
+R147,4392dc93-ea42-4013-9c1f-ab95491e6384,Zepto,5,hinglish,yah bahut hi achcha app Hai isko download karo aur 10 minut mein apna Saman mangaao,Harsh
+R148,b3284def-f625-431c-8645-4c717c73a3c8,Meesho,5,maybe,very nice and very much and shopping karne ke liye very nice 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂👍👍👍🙂🙂👍👍🙂👍🙂🙂🙂👍🙂🙂👍🙂👍🙂🙂👍🙂👍🙂🙂👍🙂👍🙂👍🙂👍👍🙂👍🙂👍🙂👍🙂👍🙂👍🙂👍🙂🙂🙂👍👍🙂🙂🙂🙂👍🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂👍👍👍🙂👍👍🙂🙂🙂👍👍👍👍👍🙂🙂👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍🙂🙂👍🙂👍🙂👍🙂🙂👍👍🙂👍👍🙂🙂👍🙂🙂🙂🙂🙂🙂🙂👍👍👍👍🙂🙂🙂👍👍👍🙂🙂🙂🙂👍👍 thanks 🙏🙏 you mesho thankyou ver,Punit
+R149,0d26ae94-15ee-472b-b68c-53aaebb0c1d4,Zepto,1,hinglish,"Faltu ka app he , gst lagti he bahut, 20 rupay ka saman 90 rupay me dete he",Arpita
+R150,467b909a-7372-430d-81f4-525e8f81bb75,Nykaa,4,maybe,thik thaak app hai,Harsh
+R151,8193c718-8308-44db-9727-b37116da1608,Blinkit,1,hinglish,ek dam bhakws bas lutne ka kaam he kisiko dawnload karn ki zarurat nhi he,Punit
+R152,8cb9db86-ea9f-4c3e-b6fa-54cd0f0459d3,Zepto,1,hinglish,Bhai receiver details daloge fir bhi resignation number pe call karenge or agar usne na uthaya to cancel kar denge mene payment kar diya tah advance me or Mera ese hi order cancel kar diya or ab bol rahe hai 5 6 din ruko refund ke liye 😡,Arpita
+R153,93992ad5-3d18-48de-a8e1-98cc12182bb4,Meesho,5,hinglish,bahut accha product hai,Harsh
+R154,32919fd9-7a00-49ca-bce6-96fa089c40b7,Zepto,1,hinglish,Bekar app hai refer nhi mila 😡,Punit
+R155,5fe44c5a-cdce-42df-9bbe-1fe88332ae81,Blinkit,3,hinglish,"Bhai jab badarpur m add de sakte ho to deliver Karen m itni dikkat q hai 
+..... Fuddu bna diya",Arpita
+R156,943dd6eb-9be5-48d1-a75b-fa35c285661a,Meesho,2,hinglish,peyment kt krke order book nhi kr rhe h...mere paise wapas kro,Harsh
+R157,8f6cf24d-1ffe-46f6-9ed2-b175049eb795,Meesho,1,maybe,Sabse bura app hai👿🤐🤮🤮🤮,Punit
+R158,8480b0a4-5713-422d-8024-e272532f3739,Blinkit,5,hinglish,yeh sabse best ap hai apke groceries saman ke liye isme koi fraud nhi hai i will rate it 5 starts,Arpita
+R159,9ae73482-c103-4bb7-a5ab-acdcd3d286ba,Meesho,1,hinglish,meesho ka delivery bhot Gita hota hai jisa dikhai ha vaisa deta nahin hai,Harsh
+R160,f1f765b3-4871-4d66-981e-030ec3ff847e,Zepto,3,hinglish,"zepto wallets me paise add matt karna koi Varna scam hojayega.mene 10,000 add kiye koi matlab nhi nikal raha upi se payment karo sab wallets me galti se bhi matt dalna isme scam ke tarike dhundhke rakhe hai.",Punit
+R161,702491db-26dc-4273-9f6e-7f4adc2f0f35,Blinkit,3,hinglish,2 time mere order me item missing received hua mujhe that's why i rating 5/3 👍🏻,Arpita
+R162,5b832f3f-fc39-4efb-b4df-eb5a38cb7391,Blinkit,3,maybe,dekha tu kaisa hai,Harsh
+R163,0a2fa459-617d-4e90-91b6-f2b2c80523fe,Zepto,1,hinglish,Maine ek charging cable mangaya tha charging cable dusre mobile kahan gaya hai a gaya hai usko wapas karna hai main Kai din se TRAI maar raha hun kripya karke wapas karaiye ok,Punit
+R164,72606af5-5252-4e96-8148-333c70e22c29,Blinkit,1,hinglish,cash on delivery hai hi nahi hai,Arpita
+R165,a17d213a-e52a-4581-8891-891b1fa6a92d,Meesho,3,hinglish,"Bade Bhai Mera account, chalu kar. Do 2 bar request, laga chuka Hun 😞😞",Harsh
+R166,fe0d873b-0908-40e0-97a7-a4a551488c27,Nykaa,5,maybe,bhot ache discount hai,Punit
+R167,2ba19213-c05c-4e0b-9dac-325b168b9a9b,Meesho,1,maybe,nakali product becha jata hai,Arpita
+R168,8fdebdac-f0e5-4c2f-b31a-ffcfcdc601a0,Zepto,1,hinglish,"I recieved a damaged product and on raising issue on the customer support they just don't listen and tell me the issue is resolved , is this ur customer support ??? atleast take the accountability of your actions what I m supposed to do with a damaged product jiska aapka return and refund or exchange kuch bhi nhi karna chahte ???",Harsh
+R169,3c3c22e3-00bc-457c-81f3-c9b012ae14db,Blinkit,1,maybe,Hindi bhasha mein bhi option Hona chahie,Punit
+R170,9f2806a4-bf9a-4917-bcda-5c859e1ca793,Blinkit,3,maybe,delivery boy change nahi dete wapas,Arpita
+R171,d6215867-1595-4cd9-917d-9a7d7dcdd85c,Meesho,2,hinglish,mene kab ka parcel return Kara he koi lene nai aa raha,Harsh
+R172,70ca7ee9-9429-4c79-af4d-7360afdd5509,Meesho,3,hinglish,yaha ka customer fraud jada karta hai us pa koi work nahi karta hai mesho team ulta reverse loss manufacturing wala ka hota hai uspa kuch charge karna chiya taki fraud customer aur ek sedofax wala dono na sara kuch ma loss bhout jada kiya hai kay sadofax wala blind hota hai usko padha nahi aata hai kay return mai da raha hai liya kiya tha 😢😔😔🥺ya dono kash kar isma jada to return jo lana jata hai sedofax wala usko dhak kar lana chahiye customer kay wahi da raha hai jo liya tha isma loss ham..,Punit
+R173,d3801833-5560-457b-a110-d5912430c685,Meesho,3,hinglish,jitna ka order hota hai usse jyada paise lete hai aur cancel karna chaho to kehte hai block kar denge mene kisi dusra ka percal mangaya tha unhe ne cancel karne bola to me kya karu 😶🥲,Arpita
+R174,af9c8bf4-a97f-46ca-96e6-46faa7dd0ece,Meesho,1,hinglish,very bad experience...ek to jo delivery date hai o two times delay hota hai tracking bhi nahi ho raha hai 13 sep ko product nearest hub main dikha raha hai 17 sep expected delivery date 19 sep Tak product nahi mila to maine complaint raise Kiya to they said ki 3 dino tk wait kro aur 3 dino bad call Kiya to aur 3 din ka wait kijiye what is this behaviour... ek to app main traking update bhi nahi kiya hai ... very disappointing,Harsh
+R175,00f83151-213a-4ffe-947d-2593fdd71949,Blinkit,5,hinglish,bahut achcha app hai,Punit
+R176,e81ed134-266a-49c1-8139-3332a33693e0,Blinkit,1,hinglish,delivery boy se direct baat nhi hota h,Arpita
+R177,7032d1b7-66d4-48ff-923d-90b57d5ab17a,Meesho,3,hinglish,cash on delivery ke naam per jyada Paisa lag raha hai aur Saman bhi kabhi tuta kabhi damage a jata hai please ine chijon ko theek Karen 🙄,Harsh
+R178,fca594a7-b22a-4551-a13b-03bbf4f4cf40,Meesho,1,hinglish,meesho app pe koi bhi odar de ne nahi aata hai sab se ghatiya aap hai 😡 aapko bole ge ki 2 se 3 wait kar lo aap ka odar mil jayega lekin baad me odar cancel kar dete hai 😡,Punit
+R179,c3d7c4c0-f9b9-4d0b-83e1-0bcf9a259346,Blinkit,2,maybe,discount aktu besi valo hai,Arpita
+R180,1e114736-b2de-43d5-951c-2e357c8aca34,Blinkit,5,hinglish,cash payment kar sakte hai,Harsh
+R181,2accafd6-3f65-4717-8f20-1920a54508e8,Meesho,3,hinglish,meesho bohot bohot acchha hai pr kabhi kbhi galt to kbhi galti se kharab product aa jate hai pr km paiso me acche product bhejate hai tx messho,Punit
+R182,46fe517a-f089-4da6-bb96-e7f001cb27f4,Blinkit,3,maybe,shahi he kabhi kabhi istmal kar leta hu,Arpita
+R183,42910609-020f-4a0d-89af-3894c0222373,Meesho,1,hinglish,sabse bekar app hai,Harsh
+R184,05d52335-b38a-4be9-b70f-85166e5d14db,Meesho,4,maybe,bahut aasa app h thanks meesho,Punit
+R185,924caa7e-2da2-4d7b-a81a-23f1de90dd77,Nykaa,2,hinglish,Saman aane ke bad hi bata sakte hain kaisa hai Saman,Arpita
+R186,f10247ed-85ef-412d-9fc7-a00b762ad4bb,Zepto,1,maybe,free cash nhi aara,Harsh
+R187,0b806630-6bb8-4765-8624-4d32c0bf71fd,Blinkit,4,hinglish,very good app hai very nice maza aa raha hai,Punit
+R188,b2a1f209-5781-4ddf-a423-0c6cdda89a75,Blinkit,4,hinglish,bhai sahab Har chij ka offer quality mein,Arpita
+R189,bd5bc05c-cfb2-4228-b8ec-e4f7a7724b5d,Meesho,2,hinglish,jaisa dikhta hai vese bhejte nhi customer ko saman nya chahiye bhai na ki purana app to achi hai par kabhi kabhi late kar dete hai,Harsh
+R190,712dcdad-119c-4f44-aac8-6d77c15328cc,Zepto,4,maybe,thank september bahut achcha,Punit
+R191,4b5d3644-9e54-42a7-8360-9db779b532e0,Blinkit,2,hinglish,jo saman chahiye wo nhi milta he majburi me dusara saman kharidna padta he or kbhi kbhi bahar lana padta he kyu binkit pe jarurt kam saman kam bekar ke samn jyda he,Arpita
+R192,86810a03-234f-4f9d-87aa-626621c3d3dc,Meesho,3,hinglish,naya number se login Kiya fir bhi offer nahin mila 🥺🥺😭😭,Harsh
+R193,a7411df2-d59d-425f-932d-93cbe73815e2,Blinkit,4,hinglish,p product mahanga milta Hai discount chahie product ke piche aur product sasta chahie,Punit
+R194,4c7cda76-f1bc-4b3c-9caa-bafa9672df4b,Blinkit,1,hinglish,service acchi nahin Hai,Arpita
+R195,512db233-b9ee-4a9f-be36-05e797dd89e4,Meesho,3,hinglish,mujhe ye bhut pasand lekin 2 star ise liye nhi de kuyki case on delivery nhi hota h,Harsh
+R196,1a0383ff-c9b8-4002-a0e9-5742629c3245,Meesho,1,hinglish,jyada acha app nhi hai👎👎👎,Punit
+R197,6ec67dc3-9a8e-475a-95c6-80714ff77691,Meesho,1,hinglish,cash on delivery band nahin hai is app par,Arpita
+R198,d2b0ecdd-05a5-442b-a9cf-ee9ff8f1344e,Meesho,3,hinglish,agar cash on delivery kar di to mast hai,Harsh
+R199,43751140-b3e5-4e28-b01a-b445b0dd91c7,Blinkit,4,hinglish,yah log acche se baat baat karte hain aur sath ke sath acche jaldi jaldi delivery kar dete Hain per kabhi kabhar ismein Se Koi delivery partner bahut Bura karte hain kyunki kabhi kbar hamara Jo order hota hai vah apne pass Rakh leta hai bolate ki han unhone online payment bhi kar Rakhi hoti Ham logon bus aage se yah sab Na Ho please,Punit
+R200,67e8b2e9-4958-4b7d-a1fc-98e07f955a41,Blinkit,1,hinglish,kidi kam ka nahi hai,Arpita
+R201,55983d00-3e2b-4e32-b075-2421d80fd5e8,Meesho,1,maybe,mujhe vighyapan jyada dikhai dete he,Harsh
+R202,46c942f5-b70c-4a4f-86d1-bbea0e7b6d5e,Meesho,4,hinglish,abhi to theek hai,Punit
+R203,c60bd923-6eaf-4859-9740-c1b85b4735e8,Meesho,2,hinglish,jab tak number se account nhi bna rhta h tb ki offer rehta h jaise hi sign kr do offer khtm ho jata h enka koi chiz 87 ka h to wo sidhe 150 ko jata h duguna tezi se 😂😂🤣🤣😂 lalach dena ense sikhe koi bhai aisa kar do ki bina account bnaye hi order kr le km se km offer ka laabh to le lenge,Arpita
+R204,7926a016-0c6a-46f4-bf3c-39700e28de46,Zepto,1,maybe,is tarike ka ganda refined na Rakha jaaye rapid store par,Harsh
+R205,86efd89a-6469-4f89-9bdf-1ddc83aaae20,Zepto,1,hinglish,loafer nahin kar raha hai,Punit
+R206,00f4ed65-3d44-4011-8885-f3a3693ae8ed,Nykaa,1,hinglish,nayekaa ke saath experience bhut khrab h bhut ganda response h inka order timeli delivery nhi krte h,Arpita
+R207,ff52d64d-f64e-4dbe-b72c-f5739cd2ee65,Zepto,1,hinglish,koi bhi Online payment na kare sale sare froud karte hai muje Kal 3 item missing mila hai or jab zepto coustomer car se bat ki to bol rha h sara item delivery ho gya hai delivery partner se puch to bol rha hai adha item koi or leke gya hai ab mera to item gya koi sahi se response bhi nhi deta hai to Don't pay online pay COD only,Harsh
+R208,b12cf7f0-9de2-4207-8b5e-d2bdadbd6813,Zepto,1,hinglish,mere paise is aap m add nhi ho rhe h bilkul aacha nhi h ye,Punit
+R209,34d146c5-1f0a-4cc2-ba83-9598ec855207,Meesho,1,hinglish,are yah meesho app ek number bekar Hai matlab maine udhar kiya tha vah 9 payment kar diya thappad bhi Mera ID to block kar diya ismein rupya le liya abhi tak nahin aaya hai,Arpita
+R210,1bead8e8-68c0-4a6a-a444-d133cd5dba83,Meesho,1,hinglish,meesho balance kese milega ya nhi milega bad 😞 meesho account block ker deya aur paise dene ke aukaat nhi hai,Harsh
+R211,8f710bcc-042b-47bb-a6a1-2682ecee4b98,Nykaa,5,maybe,product acha ho bus,Punit
+R212,68292064-2f32-4c77-b27d-31236f64f5af,Meesho,1,hinglish,bahut hi gatiya app hai mere3000 rupy kha gya,Arpita
+R213,6ea81d22-fe90-4803-80e7-1b98e5578800,Meesho,4,hinglish,mai use nhi kar pa rahi es app ko,Harsh
+R214,923c8e37-08ec-4103-8e52-5173dd1911b1,Meesho,5,hinglish,jo bhi product magate he bohot achhi quality or kab time ke andar aa jata he hme product bohot pasand ate he,Punit
+R215,bb44fda7-e673-4a4e-bd44-9789f7d64e7d,Blinkit,1,hinglish,bahut hi kharab hai per location De nahin raha hai dalo Koi aur location set Ho Raha Hai Koi aur Hai,Arpita
+R216,3df04fb7-c945-48da-ac5f-7e8b1aa68bb9,Nykaa,5,hinglish,batana acchi baat hai dusron bhi le sakte hain,Harsh
+R217,9471f746-7715-4284-ad5c-85388a30708a,Meesho,1,hinglish,bohot bekar app h ise download mat karo,Punit
+R218,c25cb7bf-f6b4-425d-be2d-fc8295f9e93b,Meesho,2,hinglish,ye bhut ganda aap h me dilit kar rahi hu,Arpita
+R219,2a714e70-fe46-4b2f-bddc-4e32947aca29,Meesho,4,hinglish,bahut acha h 😅,Harsh
+R220,7f121aa8-c90d-4443-a00b-3af356cebd2d,Meesho,3,hinglish,mere mobile mein cash on delivery kyon nahin a raha hai meesho app per,Punit
+R221,25d70ce2-4316-4af8-9574-0efcf20f6248,Meesho,1,hinglish,es par mera account block baata raha hai sir es ko thik kar do please,Arpita
+R222,e9c7fa5a-8ed3-4e43-beec-b85513ae762c,Nykaa,5,hinglish,Abhi Tak Jo Bhi product mangvae Sab bahut acche Hain,Harsh
+R223,c2c1bd09-43ca-44cc-8d3e-40801347ca21,Meesho,1,hinglish,ye bhut kharab hai isme invite karne per paisa nhi milta hai,Punit
+R224,fd5f654e-ffe3-4d2f-aefb-0f34b501b454,Blinkit,1,maybe,"print out service very slow, I am upset for tha",Arpita
+R225,da4ecd93-97d5-4bd5-88fe-8f4198cab195,Meesho,1,hinglish,sale lagne par kuch sasta nhi hota,Harsh
+R226,f25f89be-5323-49a0-b723-3c1d4161b70e,Meesho,1,hinglish,"bekar app h Bina mtlb ke hi block dera h ,,,,, customer care bhi smjh ke bahar h , unse pucha kyu block Kiya bolte ki hm kuch ni kr skte ,,,,,,",Punit
+R227,d35d2574-d764-41ef-b117-b67fa9f1a3b6,Blinkit,4,maybe,bhut aacha app he,Arpita
+R228,0d16cdcd-53b0-449d-976e-15e80b20fd6b,Zepto,4,hinglish,Abhi tak thik hai,Harsh
+R229,6d29980d-4379-449c-80f9-021200e291a1,Zepto,1,hinglish,mera zepto ka cash baik nahi ho raha gai,Punit
+R230,73d8725c-aa8e-4ae6-97e3-be04b9859017,Zepto,1,hinglish,bahut bekar app hai,Arpita
+R231,91f1e27a-6cac-485b-a671-866b06199682,Meesho,5,hinglish,yah mujhe bahut aacha laga,Harsh
+R232,944cc029-0d48-4394-87a5-219058139148,Meesho,2,hinglish,pata nahin kya ho raha hai kab Ek Bar Na Mera order ship hota hai lekin vah ship matlab Mere Ghar per I Nahin Pata Hai ship Mein Atak Jata Ho,Punit
+R233,00a688ac-c342-47cf-a73e-7f383749a2a9,Blinkit,1,hinglish,application ki man chod rahi hai kya Jo download nahin ho raha hai,Arpita
+R234,c520a802-2da2-4c85-8e5d-be275e3ee487,Blinkit,1,hinglish,ghatiya cancer karne ka option nahin diya,Harsh
+R235,ca53af2e-c994-4642-86f5-66a27c52ecd7,Meesho,3,hinglish,Maine order kiya tha shoes 346 ke aur FIR uske bad Maine return kiya tha delivery boy anniversary return ko cancel kar diya juta apne pass Rakh liya FIR uske bad number bhi nahin utha raha hai Gola mein uska office shadow phone Naam Se,Punit
+R236,205f5dd4-1eb7-4ede-89a0-60de2a1cb078,Meesho,1,hinglish,koi daunlod kare na kare me to nehi kar reĥa hu,Arpita
+R237,1cd8c298-ee3c-4f4c-acf7-97fb6999eb2e,Zepto,2,hinglish,Zepto cancelled my product from order . Maine zepto par order Kiya product stock me hone ke bad bhi mera product cancelled kar diya maine jis item ke liye order Kiya tha vo hi cancel kar diya or jo baki ka uske sath kiya tha sirf ho hi aaya or main saman nhi aaya or mujhe order cancel karne ke ka option bhi nhi diya .,Harsh
+R238,ea2947e4-e199-4250-8fa9-d05ae87589b9,Meesho,1,hinglish,bohot buri service mera product return ni hua paise bhi kharab ho gae don't use it,Punit
+R239,53e15858-788f-49d7-ba5a-090dd4294e32,Meesho,1,maybe,sab se gharab Aap he ye lavda,Arpita
+R240,d8f4b957-67f8-44d9-940c-b624a54ecf0f,Meesho,1,hinglish,bahut kharab app hai sasta dikha ke fir mahega de raha hai,Harsh
+R241,d510ae1c-35fe-49c3-b24b-0295258f9277,Meesho,1,hinglish,ak odar kiya vobi nhi aaya he 1 ka kesal kiya vaps 5 tarikha abi 8 tarikha ka he aase mat karo,Punit
+R242,d3038df8-f66a-49a9-b244-e7284b5e1ff8,Blinkit,4,hinglish,overall experience to achcha hi hai Abhi Tak bus Saman ki variety aur badha Deni chahie for small 🛒 cart charge bhi kam yahan per hata dijiye,Arpita
+R243,f736e2a6-46c9-4724-bdb3-c42c6796e3dd,Zepto,5,hinglish,refund karna hai charge nahin ho raha,Harsh
+R244,854a6d65-1f77-496f-9c57-fa7e5a315721,Zepto,5,hinglish,"good good good good good good good good bahut, badhiya hai AAP bhi mangwai.Yeh, log delivery charge Le lete Hain isliye bahut bekaar saman aata hai or ye log paise bhi Jayada Le lete Hain Agar Yeh delivery charges, Nain Toh baat bane Mera.Ghar inke japton, ke mall, ke samne Hain per phir, bhi, log hamein, delivery charges, laga dete Hain hamne kind kharida.Tay ek pachaas ka kharida tha or Assi rupaye yaniesh NE tees, rupaye charges laga.Ke bahut , ganda ganda ganda , ganda , ganda , ganda , 🤬🤬",Punit
+R245,445177c2-4b18-40b0-85e5-40377c41a1de,Blinkit,3,hinglish,service aur badhiya Karen defective item customer Tak Na pahunche Maine icecream mangaya defective mere pass box aaya blinkit ko customer care se baat karne ka bhi service Dena chahie return karne mein koi mushkil Na Ho refund bhi Sahi tarike se wapas mil jaaye call ki service dijiye Dhyan denge aur achcha chalega,Arpita
+R246,a9ca426f-fa0d-483b-8c98-a14f44a58813,Meesho,1,hinglish,misho se koi kharidari nhi time se dilevery nhi karta he or frod bhi karta he jo saman mangwaye vo bhi nhi bhejta he enke pas dilevery boy bhi dhik nhi he bhut abhdra vyahwar karte he misho is frod,Harsh
+R247,238e786d-9f7a-4d4d-87d1-a7a72b6545f4,Zepto,3,hinglish,theek hai yani ki normali kam chal sakta hai,Punit
+R248,3539c216-9be5-4c36-b57e-c014ba314942,Meesho,2,hinglish,guys app achhi hai par ek bahut Badi problem hai ki ye apne dilivery guy ko har dilivery par 10 rupees hi dete hai aur petrol ke paise bhi nahi dete me chahati hu ki jo log itna sab karte unhe sirf 10 rupees dena worth it nahi hai meesho we want justice ⚖️,Arpita
+R249,6ba21b80-4d5b-408c-9254-2daddbb28a05,Zepto,1,hinglish,bohot kharab app he mene icecream order ki par meri icecream hi nahi aai,Harsh
+R250,b4268eca-3715-4c85-9bb3-d3f288fc852e,Zepto,1,hinglish,Aspire Saman bechti Hai yah app isase Koi Saman Na Le,Punit
+R251,dc54845f-96b7-4eb2-9c7b-2929779ee174,Meesho,5,maybe,dene ko to mai,Arpita
+R252,0db70d9e-8e9d-4ed2-b9c9-c9eddd339414,Zepto,1,hinglish,Yah bahut ghatiya app hai location hi nahin a Rahi bas location in mang raha hai Banswara city mein available kyon nahin hai,Harsh
+R253,e2c548f7-af89-4e1b-b50c-e37ea182117b,Meesho,2,maybe,order itna let kyon aata hai 🤨🤨,Punit
+R254,5aa36989-9836-40b9-8430-dc480f240a16,Meesho,1,hinglish,meesho balance ka paisa use nahin kar sakte mere sare paise mere paise loot liye meesho vale ne 😭🤬😡🤬😡🤬😡,Arpita
+R255,ed278ce0-9bac-48f4-a781-246a855e917d,Zepto,4,maybe,"nice app, but thoda aur discount chahiye 😉😁✌️😊❤️",Harsh
+R256,f7078cd6-ee67-4486-8533-d2007ee860d5,Meesho,3,hinglish,saman shii ata hai pr kabhi kabhi kharab bhi aata hai,Punit
+R257,3b4c93be-a002-4839-b4ba-b3939f873801,Blinkit,2,maybe,ruko jara sabar karo,Arpita
+R258,535c5d68-cdc4-482d-9172-36618e9b29f2,Meesho,1,hinglish,"Hi, meesho aap se log yeh samajh ke shopping karte hai yeh app easy hai.Lekin itna bakwas kyu hai. Maine shampoo mangvaya our bheja diya dusra our ,return karne ke liye prosess kiya abhitak lene nehi aaya.paisa meesho walone deke nehi rakha humko.please return lelo. uper se meesho ka help line number nehi milraha hai.mai Rida Anjum.",Harsh
+R259,151c9df4-f5a5-4730-aca7-271bbe375e7b,Meesho,2,hinglish,Bahut achha maal aata hai,Punit
+R260,43c7ef48-f43b-42ca-a58a-5106a48c4fd2,Blinkit,1,hinglish,iska sath kuch be nahi aata mena 1 diary order Kari thi bahut choti the or uska sath 1 pen tha vo mujhe recived nahi hua,Arpita
+R261,4a5f714e-2256-4c04-a2f2-df1727cc10f1,Meesho,4,hinglish,mere to meesho chal hi nahi raha plz ise thik kre or mujhe koi shikayat nahi hai,Harsh
+R262,c29465f0-b09b-4201-9c41-d64ab14af777,Blinkit,1,hinglish,rifund dene me jada tame lagata aap ka help lain no. nahi hai,Punit
+R263,0a5a046a-4d7b-44d9-91ad-3cac9c93877a,Meesho,1,maybe,galat product deliver karta hai,Arpita
+R264,006d8fd7-ad6b-472b-983d-af229fe0ed44,Zepto,5,hinglish,achha tha or taime she milgya,Harsh
+R265,19d32697-df63-4115-9e3b-55127d5abbb0,Zepto,1,maybe,Jo Rate Dikaye Wo Nhi Milla,Punit
+R266,e3a08994-fdcc-4ce6-8984-424f9cca15e2,Meesho,3,hinglish,yah sabse accha aap hai jisme kam paiso me achi chij mil jati hai,Arpita
+R267,957a18d3-e478-44e8-bbf0-ffd49ebcada9,Meesho,2,hinglish,sar product available Nahi hai,Harsh
+R268,ae97a693-9ac6-442a-93b2-a465d1ae3d04,Meesho,1,hinglish,order Kiya or 5 agust bta rha hai or aaj 7 aagstb hai or aabhi order nhi aaya,Punit
+R269,370ad249-349e-470f-9b11-be3bfa6de5f0,Nykaa,1,hinglish,bekar app ...help center reply nhi krta h koi response nhi h order delayed hone pr,Arpita
+R270,504221c5-9191-4fdb-844b-f056952f8d35,Meesho,1,hinglish,ek call back nahi aa raha Coustomer support se.. Consumer forum pe Mail karna parega kya.. poor coustomer service.. 6 days se refund nahi de raha he..,Harsh
+R271,881943de-8834-43f4-a622-e22047be2c45,Meesho,5,hinglish,Mujhe paise kamane ka mauka dijiye main Jyada Se Jyada share aur aage badhaunga,Punit
+R272,4c2aa051-3dad-4012-bdcb-1d057ebf1b7a,Meesho,5,maybe,best app ... prize thoda kr do product ki.. its nice app by the way ❤️,Arpita
+R273,b40c8003-d5fd-4d40-8b62-4e2f2b5bcf21,Nykaa,3,maybe,bht accha aap h,Harsh
+R274,749ecd73-a8bd-4085-b837-86015f7bed36,Blinkit,1,hinglish,koi discount nahi milta h,Punit
+R275,fe115355-fdab-4919-84eb-4ea9c2aa19be,Blinkit,2,hinglish,aap log jaldi delivery nhi kar pate hai .,Arpita
+R276,5bc0fe2b-c610-41f5-938e-45851950ba95,Blinkit,2,maybe,extra charges bahut jyada lete hoo,Harsh
+R277,ee555801-1e75-42b1-a8c6-dfd0eeced659,Blinkit,4,hinglish,bohut acha hai aap hai delivery bhi achi hai,Punit
+R278,0e47e3be-a1dd-414e-a795-d5dbe77c5b1a,Meesho,1,hinglish,yah sabke Sath scam kar rahe hain 😈 meesho per Bharosa na Karen,Arpita
+R279,027c361f-1552-4c6f-a684-58ebc33a8dff,Meesho,3,hinglish,"Patience, deliver ka intezaar karna hota hai",Harsh
+R280,72a2ad48-eb0d-4b19-928c-2e2a7a598e99,Blinkit,4,hinglish,Bahut bahut dhanyavad bahut fast delivery,Punit
+R281,6c4db9fa-751a-4512-9129-50d7d14bab67,Meesho,1,hinglish,developer team ko Amit ki or se namaskar application TalkBack screen reader ke sath accessible nahin Hai drishtihin vyaktiyon ke liye agale update mein ise theek Karen ya FIR Gemini ko integrate karne taki Ham baat karte hue shopping aasani Se Kar saken dhanyvad,Arpita
+R282,6de08108-9130-49e7-a8dd-50bdd9db7a8e,Meesho,3,maybe,"messho is tha best shopping app but This item takes a lot of time to be delivered, please find a solution for it. And the price of the goods is added extra at the time of payment.",Harsh
+R283,7bac23a8-c320-4360-963b-10fe42460d18,Meesho,2,hinglish,"field, bataye to, kya kar",Punit
+R284,3de5b202-f4f1-4ff1-aa56-a66023782cc1,Zepto,1,hinglish,mere sath me aap ke deliveri boy ne frod kiya he 🤬🤬😡😡😡🤬,Arpita
+R285,5d208f7c-f7ac-4cc5-ba42-6477846b48f9,Meesho,4,hinglish,meeso please fast delivery dene ka prayas kare taki product jaldi mil sake flipkart fast delivery deta hai lekin meesho per 5 se 6 din lag jate Hain aane Main or product quality high rakho taki sabhi meeso per hi mangawaye dhanyawad,Harsh
+R286,591e3ab0-1838-4a6d-894c-b51354f9d4ed,Meesho,2,hinglish,pahle ke Data ko khud nahin feel karne se to khud Hi khud feel kar deta hai mujhe is baat Ko gussa a Gaya,Punit
+R287,4537c9e7-153f-40b7-b65c-b98bee9dab6d,Zepto,1,hinglish,very bad service 2 ghante me delivery karta hai ye log bahut Ghatiya service hai is zepto ka,Arpita
+R288,13b940f9-3f9d-477e-8354-49180ada9362,Blinkit,5,hinglish,good performance and safe ride ek number ka hai be bhai kuchh bhi saman le Lo ekadam a jata kya bhi problem nahin hai ek number ka hai be blancate blanket se saman mangaao,Harsh
+R289,540008d0-aeab-4796-ac3b-8b903fc3b8d6,Nykaa,5,hinglish,nykaa mene abi use kiye hai mujhe ye bahut badhiya laga 🥰,Punit
+R290,3004b384-ef62-4ad6-a2b3-e2cb8d533232,Meesho,3,maybe,dilevar taim se nahi h,Arpita
+R291,8e5eec49-c4e0-442e-92aa-1bd8e7ca81d2,Zepto,2,hinglish,plz buy some freezer's agr paise nhi h to m funding de deta hu lekin aise freezer wali cheezen melted mt bhejo.,Harsh
+R292,ade2f053-b7e2-4e6e-88ce-80585d7f202a,Blinkit,4,hinglish,this is a nice app this aur isne mere ko 8.5 minute me delivery de diya best app❤❤,Punit
+R293,284f406b-c70f-47a3-8912-15f89fb14f62,Zepto,2,hinglish,mujhe cash dena tha,Arpita
+R294,8c8db0c0-7b75-42bb-98d8-81f179187c97,Meesho,2,hinglish,bhaut bekar app hai ye parsal return nhi krte hai har wqt bas return ko reschedule kr dete aaj 10 din ho gaya hai return file kiye hue abhi oarsal return nhi kiya hai,Harsh
+R295,70817859-db61-4197-9af9-c38f710fceed,Blinkit,1,maybe,yeh aap bhot mehnga he or mere sath fraud kiya he action lijiye iske khilaaf,Punit
+R296,bda713a0-fdb3-45a6-a9fc-9505c8284765,Meesho,2,hinglish,bekar hai bhaieya aap,Arpita
+R297,d7e5b540-a2b6-469d-ac97-476fdaf3ad8b,Meesho,1,hinglish,meesho bhot gatiya app hai isne me ocaunt ko ban kae diya or iske help line number par bhi call karne se koi fayda nahi milta hai,Harsh
+R298,253e2fd5-f180-47f5-947f-0f5081c3c632,Zepto,1,hinglish,"Bahut hi bekar app hai pahle to ye log home screen pe likh rakhe hai pahle order pe ₹50 off lekin nhi ho rha hai. ₹50 off on your 1st order. ye diya jana chahiye ya fir ye dikhna hi nhi chahiye Home screen par '₹50 OFF on your 1st order' prominently dikhaya ja raha hai, lekin checkout par discount apply nahi ho raha. Agar offer conditions hain to unhe clearly mention karna chahiye, warna aisi advertising users ko mislead karti hai",Punit
+R299,ba491c0f-81d9-484f-ab37-67dd50982e6e,Meesho,1,hinglish,meesho creator club me Auto dm page uapr scroll down nahi ho rahi hai please ise thik karo,Arpita
+R300,1def6794-a377-48b5-b4a5-f69cb948870b,Nykaa,1,hinglish,Nykaa app open hi nhi ho rha he me jab bhi isse open kar rha hu to error aa rha he jese mera net khatam ho gya ho baaki sab me mera net chal rha he 😭,Harsh
+R301,4c7ccf3e-6b44-40bf-8faa-3d3b8ea5d40e,Nykaa,1,hinglish,very bed service maine damej lipistic retrun kya tha abhi tak picup nhi hua 7days ho gye 😡,Punit
+R302,1f4a5794-6a10-440a-9ad5-f2027343f60e,Zepto,5,hinglish,sahi hai very good sarvises,Arpita
+R303,2e528e3e-cd22-4bb7-a77a-ddd6d5c5533e,Zepto,1,maybe,ret kaam karo thoda,Harsh
+R304,07c04e74-f3dc-4309-9278-92f8d48ae94a,Zepto,5,maybe,bhot hi acha ha,Punit
+R305,4ec7ced2-1da9-4b86-ab68-78338cb51318,Blinkit,2,maybe,the packaging charges 10 rs yaar what is this blinkit i really liked your service btw,Arpita
+R306,b0b99e73-8f4b-44fc-9337-ce300e5cad05,Blinkit,1,hinglish,Bhut hi bekar hai aap mari to location nhi aa rahi hai,Harsh
+R307,1d6035fa-034e-4524-b0df-a01105e90c78,Meesho,1,hinglish,faltu or froud site hai 500 ka chuna lga diya is app ne .product mostly to defective bhejte hai or v return or exchange ka dalo request to wo v nhi krte hmesa reschedule kr re customer care se bat krne pr hmesa next date de de kr talte rhenge or inke pass koi solution nhi hota . its a worst experience plzz don't order from this website. 9 aug ko product order kiya 13 aug ko exchange req but aj 22 sep tk koi response nhi de re na hi previous complain ka update. plzz don't buy from this worst app,Punit
+R308,bca5598b-cd39-413f-8ce1-c701d28e9156,Meesho,2,hinglish,ab maine complain ki fir bhi refund nahi diya bahut kharab aap hai,Arpita
+R309,8b295e1a-f8d7-4eeb-b453-1d071f16478c,Meesho,2,hinglish,woman clothes kharidne par s. m. l.xxxl. in sab ka kya matlab hota h,Harsh
+R310,9e497c39-d6ae-4841-aeef-81a3f77d049b,Meesho,5,hinglish,mere meesho se kuch bhi order nhi hota hai,Punit
+R311,eaa90f35-1c40-45b7-9ae6-c4a26fe3a440,Nykaa,1,hinglish,Kisi ke paas bhabhi ka number hai,Arpita
+R312,32d43035-d135-4d1a-a3b9-c5af432277f6,Meesho,1,hinglish,"Very disappointing Refer & Earn experience! I already shared both the Referral ID and Refer Order ID with Meesho Customer Care. I was promised a solution within 24–48 hours, but instead I’m only getting repeated delays with no resolution. This has been extremely frustrating. I no longer care about the referral amount—I just wanted a proper resolution. After this experience, I would not recommend Meesho to anyone. THANKS 🙏🙏🙏🙏. sorry maaf ker de aap sab se kuch nahi ho payega.",Harsh
+R313,bf3632e6-d66f-4fd7-b971-ea9c065be1d2,Meesho,1,hinglish,comment kr diya to block.kr diya etna ghtiya app hai koe product Mt lena chor h ye mngvate vo ni niklta hai,Punit
+R314,d88e2a42-bdd5-4fcd-a920-c813bdcf9e49,Zepto,1,hinglish,free cash ka pura pasia nhi milta hai bakwas aap,Arpita
+R315,91983840-c56e-4d5f-aa22-29a2cdba58ca,Meesho,5,hinglish,mujhe bahut acha lga q ki cyes non dilevri he 👍,Harsh
+R316,4413b0fa-6392-4c2f-b534-1d2945c71f44,Zepto,1,hinglish,"very bad experience.....bahut ghatiya app hai, maine ek white kurta order Kiya tha lekin pasand nhi aane ke wajah se return kr diya ....but delivery boy return le kr gaya product aur mujhe abhi tak refund nhi mila aur na hi inhone contact number diya hai jisase ki mai contact krke complaint raise karu .....bahut hi ghatiya app hai please don't use it",Punit
+R317,2c787a09-de1b-45f2-b23c-fab7ed6c543d,Meesho,5,hinglish,mujhe bahut jyada pasand hai,Arpita
+R318,eaeb5078-fb96-442d-8e82-0adfdb16a9d6,Zepto,1,hinglish,koi bhi saman mat lena bahut kharab saman deta hai chor hai paise bhi vapas nahi karega aur tumhari ejajat utar dega koi bhi saman mat lo,Harsh
+R319,8fb85374-37ac-4852-9471-c08fedcf92e9,Meesho,3,hinglish,baki sab mein yah theek hai per electronic mein yah bahut electronic saman saste se sasta mahange main phone mobile in ki baat nahin kar raha hun main main motors kar kar ke parts vagaira ki baat kar raha hun battery chhoti battery ki baat Inka ek Bluetooth module coffee price per milta Inka ek charging mobile kafi jyada price se milte,Punit
+R320,1c53766e-57b4-42e5-9104-562cb11c34a5,Blinkit,3,maybe,It's me cash on delivery mahi hai,Arpita
+R321,463ed09a-6956-4089-8c1b-15eed4dfbf0d,Meesho,3,maybe,aacha app ha magar kabi kabi aacha sanam nahi aata ga par kabhi kabhi aacha saman aaka ha or thik be baki aacha ha,Harsh
+R322,500d5211-56c2-4097-bb28-97f9997034fe,Blinkit,1,maybe,free ice cream ha hi nhi,Punit
+R323,d74b2846-4cd2-4650-91de-6fde9da7173d,Blinkit,1,maybe,price are so high and late night charge and handling charge are also bhut h,Arpita
+R324,d5abdb55-6243-428b-b36b-4b1606aad986,Nykaa,5,hinglish,bahut achchha app hai,Harsh
+R325,89a83740-5e9c-496a-bc5e-47a338b336c7,Meesho,2,hinglish,hame is app me muze money pay ka option nahi he,Punit
+R326,97f334a4-5faf-44bb-85e8-a0a77772f5d3,Meesho,2,hinglish,bs iske bare me to me kiya hi batao har cheez odar karne par pese badhta hai ye app Or jo dekho wo cheez sam to hoti hi nhi hai mene Bhiringraj mangaya tha wo khude me feka hai,Arpita
+R327,6af954a2-a734-4cf7-a6c6-a7041fa94e4c,Blinkit,2,hinglish,poor services 30 meter ka distance karneme 23 min lagta hai,Harsh
+R328,19b0212a-deee-4622-bd12-af2dae47c534,Meesho,4,hinglish,mirn ek bhi star nhi dena chahaati hun jmein jab bhi order karti hun mera order case on delivery nhi ho rahr hai mere paas case nhi hai mobile mein,Punit
+R329,d4952ac9-877a-4c8f-8050-8af9c6648b43,Meesho,3,hinglish,aap aur achchha sa younic,Arpita
+R330,0516d328-fc1d-48f2-9a02-f13f1c90783d,Nykaa,5,hinglish,Mera product aa gya hai ese sbhi log download kare,Harsh
+R331,32cc0e82-a4da-4ee4-be32-9df68a8f390b,Meesho,5,hinglish,bahut achcha app Hai sasta Saman milta Hai,Punit
+R332,220e2a84-0728-4530-a234-120ece2e4dfe,Meesho,5,hinglish,meesho ek achcha app hai kam paiso wale product bahut acche milte Hain crepe ka kapda bahut achcha aata Hai,Arpita
+R333,18a463b1-6fb6-4590-9f62-d35f5a96230c,Zepto,1,hinglish,bhut karab hai ye sara mall expire hota hai aur customer support 0 hai deke chae jate hai refund ke nam pe kuch nahi dete fake hai ye chore hai mene 500 ka samn magaya sab expire tha most better blink sabe thik hai ye koi complete nahi hoti agar hoti bhi na to same time solve hoti hai love Blinkit....,Harsh
+R334,355c456d-068e-4ec6-93f5-6e3a8ac073ae,Nykaa,5,hinglish,bahut bahut achcha hai,Punit
+R335,6c0e5c5c-54f2-4701-9aee-6179617ccc13,Blinkit,2,hinglish,mene Aaj hi ek tumbler order Kiya tha os vo defective nikla mene customer support se baat ki wha koi agents provide nhi kiya jara or naahi refund,Arpita
+R336,a1e9a0ef-d673-49ac-8924-ba7097246110,Blinkit,1,hinglish,jo order diya jata hai vo nahi aata . bahut kharab service hai . very poor performance👎 blinkit se saman nahi mangaye 👎👎,Harsh
+R337,d2ae531f-a9ae-4424-99f3-3012df0468d6,Blinkit,1,hinglish,bahut gande pakit dete h esa koi saman nhi aata jis dhoye bina rakha ja skte,Punit
+R338,39fd554c-5576-4d81-91d5-025eab1433ec,Nykaa,5,maybe,me ke gemar hu,Arpita
+R339,f9c7de2a-ef61-43a7-b8ce-d947b6937fdd,Blinkit,5,hinglish,Paisa jyada lag Gaya,Harsh
+R340,bcf4f867-7c82-4b93-a916-d6f502b82ef1,Nykaa,5,hinglish,bahut hi acha app hai,Punit
+R341,e4c125d8-eab8-45e3-af3d-09d5928712b5,Zepto,1,hinglish,Mere pass abhi free cash nahi aaya he,Arpita
+R342,b1d2115a-bba3-4f13-8c3a-6bd2749ab127,Meesho,3,maybe,thanks meesho mera app open ho gya,Harsh
+R343,b068be82-9f9c-40f7-8be4-47e44bdef15e,Blinkit,2,hinglish,pic jaldi bhejo yaar bahut talab hai,Punit
+R344,f62539bf-976c-409b-b991-bd22502f1689,Zepto,1,hinglish,free cash nhi milta hai,Arpita
+R345,9c6a422d-2bac-4f02-bc0c-13d7bcc747ec,Zepto,1,hinglish,bahut bekar aap h free cash ek baar hi diya uske baad member ship bhi li lekin dubara free cash nahi mila,Harsh
+R346,bde0b1b8-892a-4d6c-855b-a55fe462baf4,Meesho,3,hinglish,Maira app meesho permission nhi de rha hai meesho jo bhi use kar rha hai mat kare sarvice bekar hai very bad,Punit
+R347,3bba1c86-f169-4722-a154-925681a013e3,Zepto,4,maybe,jaruri ke liye mst h,Arpita
+R348,e3185406-3bed-491e-9c7a-854521f17260,Blinkit,2,hinglish,blinkit bhut hi bekar online service hai,Harsh
+R349,6b0e5525-a5f2-4564-a42a-84d3a1691dcd,Blinkit,1,hinglish,very poor Hai ismein order cancel nahin hota ise Koi bhi mat load karna,Punit
+R350,25b49150-5b7f-4a27-a8fe-7f3347e2665d,Zepto,3,hinglish,Bhim upi se payment krne pr 75 rs ka jo Cash back tha bheem wo diye he nhi,Arpita
+R351,e197fa06-5c97-49f2-9619-8cbc16c3eb43,Blinkit,5,hinglish,bahut accha hai yeh blinkit aap thanks 👍,Harsh
+R352,9dce8e4b-072e-4017-9b8f-6c47598c2530,Zepto,1,hinglish,Mera id band kar diya hai,Punit
+R353,0982fed8-0bd2-419d-9bd2-1381747cf878,Meesho,1,hinglish,mujhe aap se ek saval hai meeso parsel kensil ke badle paisa kyu nahi deta hai🙁,Arpita
+R354,2fbe19c7-3497-4a0d-84d0-88ff355b6b13,Meesho,5,hinglish,Iskanr keyo mag raha hai,Harsh
+R355,9b31dd3a-b9e7-4b2c-bf7a-f3c48725c199,Blinkit,5,hinglish,app bahut mast hai,Punit
+R356,1990626f-dbad-4b56-80e6-4f025faeac45,Meesho,1,hinglish,scam app wrong product delivery kiya or return nhi kiya account he block mr diya,Arpita
+R357,1b662e6e-2c2d-4e31-b5f9-800279ff05b4,Meesho,1,hinglish,sabse bakwas app hai,Harsh
+R358,bc46e9f0-c175-4188-b3b9-ad9f3a7e1a35,Blinkit,3,hinglish,mujhe aap to bada achcha Laga kam bhi achcha karte Hain lekin mere Kshetra mein abhi inki service nahin Hai Main chahta Hun ki mere Kshetra mein bhi service Ho taki taki kuchh bhi Saman ab tak pahunch sake,Punit
+R359,4cd75cbe-6bd0-47b4-a946-1ea431a26659,Blinkit,2,hinglish,Kuch bhi nahi hota bewkoof,Arpita
+R360,d98889f6-98e5-44ed-b358-7673f3012ea0,Meesho,4,hinglish,meesho accha shoping hai saate damo me acche kapde aur saman mil Jate hain but kuch log hote hai jo kapda sahi nahi dete isliye aap jo bhi kharide use acche se dekh le,Harsh
+R361,35bb3a7b-8533-4a71-b8ae-1dd5b512362d,Meesho,2,hinglish,jdjdjdbdjskabsb me to send the link send Kiya tha na ki writing and y I asked him ye 😞 hai to wo e na ki writing a review on our way 😔 me know when and how to use this is the best for the link below to delete kar do you want it for you and the link to my email address is being used by any virus transmitted or right to the same ho gaya hai karo ki height is the best friends 😛 and t kya hua tha na ki height and weight and weight and feel of hii sir good day I was in a call to discuss about exca,Punit
+R362,cec0fe2c-ba70-4c1d-8216-cda38f29cb4b,Meesho,1,hinglish,"sorry main aisa koi comment Krna nhi chahti thi but mujhe Krna padd rha hai , maine apki app se bht kuchh order krti hu , lekin iss war jbki main bhi ghar par thi koi order related message nhi ayeya aur status show ho rha hai aap ghr par nhi the mere pass proof bhi hai ki hum ghr the us din aur hme koi call nhi ayi ,or na hee order jdki last date 21 thi great agar chat with assistant kro toh yeh sahi se answer nhi dete I want to complaint",Arpita
+R363,81614bd8-5319-48bd-ab52-efdfd9ff4dd1,Meesho,2,hinglish,meesho company Ne hamara account block kar diya location nahin a raha hai hamare gaon ka location block kar diya 😭😭😭😭 please mishu hamari help kijiye ki hamara app chalu hona aur ham khareed paye ham har chij meesho per shopping karte Hain Kisi bhi tarah Se hamara app khulva dijiye tumhara location block Kar Diya usne,Harsh
+R364,b9a2e7ac-d139-477d-ba15-07e8f36878ed,Zepto,4,maybe,delivery charge bahut jyada,Punit
+R365,6d40ad8f-4bcb-4d88-84fa-9f750e879b86,Meesho,4,hinglish,meesho ab bohot behtar kam kar rha hai apne me bohot important kar rhe hai 👍👍❤️❤️,Arpita
+R366,a263b945-5d93-41fa-8966-467e69aab636,Blinkit,1,maybe,dilivery boy ate nhi ph karke bolte hi cancel kardo,Harsh
+R367,921a7920-4dea-43cf-8b59-8dfa0c2a53ca,Meesho,2,hinglish,dusra koi online pay kar sake asa option add kijiya,Punit
+R368,f6f18676-b75a-4106-920f-1661628ec7a9,Blinkit,2,hinglish,bhut sare item abhi es par available nahi hai aur kuch product ka rate thoda mahnga hai,Arpita
+R369,60c91069-a2be-415f-b930-92b7f873e0dd,Meesho,5,maybe,bhot accha it's a wonderful app,Harsh
+R370,003650bd-4b0a-4fc3-af8b-ebe6b100be7b,Blinkit,4,maybe,in the end ty ji,Punit
+R371,92a9e770-bcee-4950-b321-cf688fc84eee,Meesho,1,hinglish,bhut ganda app h technical issue solve nhi ho rha inse customer care to or bhi bekar h,Arpita
+R372,ca0f6891-12c4-4769-acb4-60cb67268b22,Meesho,4,hinglish,achha Anubhav Raha tha to wo bhi hai yaar ye bachi ho jo bhi hai na to wo boli na to the same hai sssssssssssd,Harsh
+R373,655aaf3e-0604-4517-b924-969aafd722af,Zepto,3,hinglish,Bhut acha app hai,Punit
+R374,4ee3492d-ff77-4b93-aeb7-0b6b200a2bef,Blinkit,4,maybe,Saman bahut mahnga de rha h,Arpita
+R375,aee3056f-04ac-4c77-9afd-1c6d26d95e51,Zepto,1,hinglish,Zepto ki service se main bilkul bhi satisfied nahi hoon. Customer ka paisa return karne ke matter mein baar-baar galat information di ja rahi hai aur promises ke baad bhi refund nahi kiya gaya. Customer Care se proper help nahi milti aur sirf baar-baar jhoothe assurances diye jaate hain.,Harsh
+R376,2f077a5e-25a2-4bbd-83e2-7ee9682d8f27,Zepto,2,hinglish,sudhar ki jarurat hai,Punit
+R377,5d6c9be4-0376-4422-8628-332af6b63151,Zepto,3,maybe,payment deduct ho gya order placed nhi hua,Arpita
+R378,5daa1dfb-c847-4f03-8408-fd57e57fcbcc,Blinkit,3,hinglish,hindi may interface nahi hai,Harsh
+R379,a397687a-dc6c-4237-85cb-a631e9d751bd,Nykaa,5,maybe,badiya. h pr ledis ka h ye aap,Punit
+R380,d1ff92e1-3336-4657-9ccd-58e0e2b9a5d8,Meesho,1,maybe,size m xl size inglish me kar do,Arpita
+R381,776c7269-20a7-41c3-bfc9-a1bfe51a53bf,Meesho,1,hinglish,order let se bhi let karata hai,Harsh
+R382,49382889-33fb-48e4-af7b-bcc208c65043,Zepto,5,hinglish,app acha he but delivery boy ke pas me change ni milta🥲,Punit
+R383,d3a908c8-f5d4-4490-9609-d27770d24777,Meesho,2,hinglish,bhut acha aap hai online shoping .,Arpita
+R384,4a914735-13a8-455f-a7cc-d2586d9e4a25,Zepto,1,maybe,bot hi bura hai,Harsh
+R385,e7afcbe6-b23f-4aaa-877c-993cf68058c5,Zepto,5,hinglish,bahut hi accha hai,Punit
+R386,89f9941d-e207-4817-ba75-99929180c6ea,Zepto,1,maybe,froud free cash disable atta hai,Arpita
+R387,cc3ace9c-bb73-46e1-9a86-760fd6c40fca,Meesho,1,hinglish,bahut ghatiya aap hai esse koi order nii karna kuchh bhi,Harsh
+R388,ce73a1b7-7039-4098-aa2c-1c5e52818fb2,Zepto,1,hinglish,Sir mera zepto free cash disable d q show hora hai 2 week se issue aara hai plss solved this issues,Punit
+R389,f4ac3ada-8e75-4e3f-938f-7aee0a015e8f,Blinkit,1,hinglish,BHAI ISNE LOCESION MAG MAG KER PARESAAN KAR DIYA H BHAI A EAP OPPEN HI NAHI HO RHA H BAHUT HI KHARAB EAP H ISE KAI BHI DOUNLOD MAT KARNA,Arpita
+R390,c60670b9-6b80-4c8e-a06e-f503e8ec3654,Meesho,1,hinglish,jyda tar odar me ame sahi samn nahi milata,Harsh
+R391,f54799aa-2727-474d-9cf8-7285a58a48c3,Meesho,5,hinglish,yah app samay samay per delivery aur sasta aur tikau Mal dete Hai,Punit
+R392,5298754e-7630-4cf5-beaa-63f798b37032,Meesho,1,maybe,bht bekar service h,Arpita
+R393,ffa2c036-1a21-4d80-a374-b682c19df4a6,Blinkit,1,hinglish,mahanga Hai sasta nahin,Harsh
+R394,aedf983f-2cbc-4900-9a8a-901319aa163b,Meesho,1,hinglish,mujhe itna gussa aa raha hai sach me maine do product bulaye aur mujhe different receive hue to maine return request ki 7 september ko lekin tabse aaj tak bas delay hi ho raha hai. maine bohot baar customer care pe complaint ki lekin koi fayda nahi abhi bhi delay hai. 7 september se aaj 22 september hai lekin abhi tak bas roj delay hi kar rahe hai. mujhe jaldi se jaldi ye problem solve karke do.,Punit
+R395,b041d4d3-583e-4cd8-902d-e822ba570ccb,Meesho,4,hinglish,app acha ha bhai ❤️✨no problem but ye jo order karte time price bhad dete ho yaha mood kharab ho jata ha l..🥲,Arpita
+R396,0c71b450-adb4-43b8-862a-b1760fd83814,Zepto,2,hinglish,bhot hi ghatiya app h delivery boy apni man mani krte h c o d rat ko ni dete h is ka faida uth rhe zepto aur us k delivery boy maine rat ko order Kiya tha aur in logo ne delivery ni di aur ek ghant mujhe mere gate pe wait Krna pada aur us k badh yeh logo khud hi delivered bata diya mujhe order b receive ni hua aur paise b ni mile yeh khuli loot h bht ganda wala disappointment mila h bht afsos ho rha h aur us se phle mujhe yeh logo ne vegetable me thuga tha cheater is app ka use Krna band kr sab,Harsh
+R397,bfd93b2a-67d9-40e0-8cab-ebcc8ed66af1,Zepto,1,hinglish,Mere free cash activate nahi ho raha hai,Punit
+R398,3dc935a8-5b81-4f05-bfb0-76f495adc24f,Meesho,4,maybe,sabse achcha aur sabse,Arpita
+R399,fc702863-e9ea-425e-a272-b2228a8b12eb,Blinkit,5,hinglish,yah bahut achcha hai,Harsh
+R400,be9017e2-7743-4739-9448-45e0fa5b670d,Zepto,1,hinglish,mujhe 125 nahin mile,Punit
+R401,3b8a0872-2fb6-40e0-ba0f-1ece1b0bb4e4,Blinkit,1,maybe,delivery mein sudhar karo bee,Arpita
+R402,415bbc8a-7842-442e-ae3a-ffc7d4e572f3,Nykaa,2,hinglish,I love nyka but this I feel nykaa is cheating with customer because wo negative review ko hide kr dete h ab kisi bhi product ke nicche aap review dekho to aapko negative and genuine review open nhi hota ab....phle ye problem nhi hoti thi ab negative review ka image tk nhi ata ...so SAD ki itte bade platform ko ye Krna pad rha customer ko genuine review nhi milta sirf postive hi khul pata h ....very bad,Harsh
+R403,b93ca2aa-bbc0-49d7-b6c1-f0bd792cf973,Meesho,3,hinglish,es app me agar ek bhi order cancel kar do to product cash on delevery nhi milta mahenga bhi ho jata hai . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . .. . . . .. . .,Punit
+R404,4441db78-e909-4ff5-bc0f-af9d7060ad59,Meesho,3,maybe,ismein Kuchh Saman Rang a Jaate Hain,Arpita
+R405,106a465e-6647-42e0-8358-787e47fcf2ac,Meesho,2,hinglish,koi bhi bhai meesho se shopping na kr,Harsh
+R406,e2622b36-9c88-42db-ad19-62c7d1d67915,Blinkit,1,hinglish,20 May Ko Maine Philips ka LED liya jo ki ab kam nahin kar raha jiski 1 year warranty hai mujhe kahan per Jana hoga product ko exchange karne ke liye electronic Saman warranty Wala kharidna bhi blinkit s samasya Hai,Punit
+R407,1cf75187-d6e9-424d-9886-6db9c06a40c6,Blinkit,4,maybe,extra charge bahut jyada h,Arpita
+R408,8e0f4fa3-cdf6-42ef-a770-1c1e1a324e9d,Meesho,2,hinglish,cash pay delivery jaldi mahi hoti hai,Harsh
+R409,789c0a24-6511-4f19-b9a4-2f204bd5d543,Zepto,3,hinglish,bahut hi achcha app hai,Punit
+R410,d05eb8e4-8dc4-4c93-9c90-5b075b74bf91,Meesho,2,maybe,to b husband l ke d thnx saf g in cf DSC ct ha bfecbnb,Arpita
+R411,939739f0-4521-47c5-998e-da8bb685f2c0,Zepto,1,maybe,maine product se magawae the to wo damage tha,Harsh
+R412,f5b7cb8a-9889-40e9-9d93-b0b2979aa4a2,Meesho,1,hinglish,bilkul ghatiya app h customer ko bevkoof bnate h mere oder kiya tha pese pahle online kar diya 4 din bad ish app me btate h ki aapka oder diliver ho gya h lekin muje mila hi nahi,Punit
+R413,3e416371-4b78-4ec9-bc7f-ee883c8aa6cf,Blinkit,2,hinglish,expiry product dete hai ye log soya chunks magaya tha date expire hai,Arpita
+R414,95badfdf-1cf4-430f-a877-b1942dd50677,Meesho,1,hinglish,bhai mene offer mai 3 product buy kare the par agle din vo order meesho ne cancel kar deye or ab dikha raha hai buy again bina offer ke man to kar raha hai ki 1 star bhi na do,Harsh
+R415,5f5ea0c0-5bdb-45ec-9c72-6cb241138e58,Meesho,1,hinglish,is app ko to Gali Dene ka man karta hai,Punit
+R416,7675c62e-398c-4f91-9a0f-4acb1bafac66,Meesho,1,hinglish,mera account suspended Ho Gaya hai,Arpita
+R417,9aaf3346-f462-41a4-b622-6439e86fcb36,Blinkit,1,hinglish,not so good app time 30 min se bhi jayada lete hai,Harsh
+R418,9cecf2bc-d7e3-40a5-ae08-c0a81d99a0ec,Meesho,2,hinglish,Bhut accha Raha hai,Punit
+R419,193af9b2-ba45-4aa7-b71d-7cbc9a57cb10,Zepto,1,hinglish,Wallet cash use krne ka option nhi aa rha hai na hi koi coupon hai,Arpita
+R420,f5777dae-0b99-41ff-8b54-2eee84298914,Meesho,2,hinglish,abhi mngaya hai jb aa jayega to retting de dunga,Harsh
+R421,fd37a664-2ed5-4cab-be32-a75b2a1f18b4,Blinkit,5,hinglish,bhot acha app ha koi delavri charges nahi ha,Punit
+R422,326caed5-ff3e-491b-b20c-877a4653bec7,Zepto,1,hinglish,125 off Bata ke 50 off kr rhye hai pagal Bana rha hai Zepto wala jo galt hai,Arpita
+R423,074dceed-9f2e-45e9-a7c7-3ff1d69e4d6f,Meesho,3,hinglish,hum jab product ek sath order kar rhe hain to woh ek hii din main aane chahiye na ese bari bari order aate Hain humare pass itna time nh hota hain please is par dhyan dijiye,Harsh
+R424,8d8e1114-d293-48ea-85c9-e4692c88e9ac,Meesho,1,hinglish,"6 September ko maine Thai vokka or oud ka 200ml pack Rs 290 me purchase kiya,or usi time payment bhi kar di.Inhone 20 September tak delivery ka jhansa dete rahe or 21 Sept ko order cancel kar ke meri Rs 290 ki payment refund kar di or same order dobara Rs 333/- me purchase karne ke liye bola,15 din mere paise free me use kar ke same order or jyada paiso me kharidi ? Kya inhone castumar ko bewkuff samjha hai ????",Punit
+R425,245920e6-a717-48f2-83ad-11b5f6e90015,Meesho,3,hinglish,apki order Id copy nahi hoti hai. copy karne ka option do.,Arpita
+R426,81acaf1f-06ed-4dae-b4b1-654d6d02385b,Blinkit,2,hinglish,kabhi bhi khule paise nahi hote in ke Ryder ke pas,Harsh
+R427,dd46e8a7-827a-487f-9f63-8567fd57b34f,Meesho,1,hinglish,aacha hai lekin siej and qwality thik nahi hai,Punit
+R428,c754f729-54b0-48ae-9fad-acf0eaacc712,Blinkit,2,maybe,Magar yah app Chandigarh mein nahin chalta,Arpita
+R429,831173f8-6609-459d-9513-4112ea6cfb5b,Meesho,4,hinglish,meesho me bahut bariya product ata hai,Harsh
+R430,a19073ea-745e-454c-bf5f-6d83211adae3,Meesho,2,hinglish,bahut mahanga saman milta hai,Punit
+R431,76f891cc-bd19-4585-9f5d-9e2e0d5ab6f9,Zepto,3,hinglish,"onion thouri bhutt damaged h or jada koi fresh bhi nhi h , garlic fresh h or acha bhi h",Arpita
+R432,225b0f53-e439-44bd-977e-680495c6d90e,Meesho,1,hinglish,Instagram se meeso kanekt nhi ho raha,Harsh
+R433,a1d1b7a1-646f-4edf-ba74-670dd50b4e4c,Blinkit,1,hinglish,isme kuchh samna by mistake aajae to ye log return ya exchange bhi nahi karte or itne gande log h blinkit me pese ethne ke liye bolte h change ni h mere 979 ka nuksaan ho gya,Punit
+R434,485a3f7f-56b2-4555-b3f6-71fd1918179d,Meesho,3,hinglish,ye chal nhi Raha,Arpita
+R435,8d56296b-b5ab-4754-bf9c-d5dfd6987660,Meesho,1,hinglish,"It is very bad aap it delivered the product very late and the behavior of delivery boy was very worst I will order tshirt but I want to cancel my order but when I say that I want to cancel my order he say tum pagal ho kya order hi kyu Kara tha pagal, so my experience is very bad 😭😣",Harsh
+R436,65cf9e6e-5d5e-4a8c-aab5-3bdbd5b53c4d,Nykaa,2,hinglish,ye app sahi hai,Punit
+R437,6931b55e-a9ab-4065-8bbd-5c669cba0a90,Blinkit,2,hinglish,bhut mehege price me saman dena or let delivery hoti hai isliye ❌🙏,Arpita
+R438,b7ad00e2-e64c-4fc9-b263-0c801ceec7e9,Nykaa,1,hinglish,bhot bekaar aap hai bhai koi yaha se kuch mt mangao bhot din ho gaye bola hai abi aara ha hu lekin abi tk nahi pocha,Harsh
+R439,77623501-2c97-457d-87bb-7ec5efa52b73,Zepto,3,hinglish,costumer support nahi hai baki okay 👍,Punit
+R440,b8d75d1d-aecb-4c8f-b3c0-63704d55864e,Nykaa,1,hinglish,main toh 1 bhi nhi deri thi star kitne cheap ho nyka return policy bkwas koi bhi Mt lena yhn se seriously Instagram pe bhi dalongi ab inka itna mehnga product mangwaya wo bhi glt bej diya ab wps nhi kre bkwas,Arpita
+R441,b8bf395a-4d7d-45d8-8b9d-ccfcf2e0d18a,Meesho,3,hinglish,yeh application useful hai lekin samaan kayi baar demage deliver hote hai,Harsh
+R442,77fe0ab1-1b84-4bbf-8a50-01e94171f307,Blinkit,2,maybe,delevery charge aur handling charges dono😭😭,Punit
+R443,00fcca2f-a2f2-4eb1-9ba9-4b5a733c238b,Blinkit,1,hinglish,Maine order return kiya but mere paise nhi aaye,Arpita
+R444,9c69ef85-2ae9-42de-82c1-99aadf11b04f,Blinkit,3,hinglish,"First order maine place Kiya , 2cold drinks( Jo ki bilkul bhi thandi nhi aayi) kuch chips and namkeen or 21 minute me order aya itne time me to maine pata nhi kitni baar blink kar liya hoga.😂",Harsh
+R445,a00ec31e-c477-401d-8c54-4c640ff080fd,Meesho,5,hinglish,bahut achha app he sopping karne ke liye . best home delivery servise he . mujhe is app ko istemal karke sopping karne me aasani hui . thanks meesho meri sopping asan bnane ke liye .,Punit
+R446,14bb2797-4fd0-48e5-8f99-93689623c5df,Zepto,5,hinglish,nice bahut acche delivery hai,Arpita
+R447,1a4b89f0-7cb6-41c3-b5d8-4c035c7de003,Blinkit,1,maybe,bahut jyada late dilivery not good application,Harsh
+R448,c5fc95eb-061f-49b0-b464-65c443c99de5,Meesho,4,hinglish,yah bahut hi achcha hai ise download karo bhaiya,Punit
+R449,573b5126-4c63-4950-b0e9-8e2a2f51287e,Blinkit,1,maybe,narayanpur me bhi ye blinkit aana chahiye home dilivery,Arpita
+R450,e91c4227-cda4-4cf3-90a9-669a111a26d5,Blinkit,5,hinglish,"pichhle kuchh mahine se use kar raha hu, badhiya service hai 15 minuts me saman mil jata hai",Harsh
+R451,2c4985f8-1853-49b1-aaca-d18511ec68b8,Meesho,2,hinglish,"70% MAHA DEAL IS FAKE, 😡 Normal Day Se Jada Price Hai, Price high dikhna koi problem ya issue nahi hota, sab ka mobile me same price hai, price low karo, issue apne aap solve ho Jayega",Punit
+R452,ac2de08f-18f6-496f-a597-d111a9fa5077,Meesho,3,hinglish,ye app acha hai lekin mera app nhi khul Raha,Arpita
+R453,8a16af03-28fa-4e01-9717-9bac6feedb76,Meesho,1,hinglish,bahut bakwas app he time per delivery nahin Hoti Hai iski aur delivery bataegi 17 August ko 22 August Tak pata hi nahin delivery ka aur fir bhi wha bataega 17 August ko delivery hogi kya agali saal hogi delivery,Harsh
+R454,c7f91c6f-bc1d-490c-8be9-3b7713480f3f,Zepto,1,maybe,App me coupan nhi aata..,Punit
+R455,f11f5377-224e-4edd-9f61-c03f8ed2fcee,Meesho,1,hinglish,Bahut he yaada gadiya review hai 148 ka rate me 300 pouch gye hai me to payment nhi karuge,Arpita
+R456,4ddded80-26d5-474a-ae49-5787207ed6c3,Meesho,1,hinglish,bahut bekar hai saman mangaya tha milanahi bolraha hai ki mil gaya mera paisa hajam kar gya,Harsh
+R457,e23458e7-bbd9-4cb1-b1f0-1d0caeb3f939,Meesho,1,hinglish,sabse ghtiya colity ke saman milte hai yha ye product khule hue deta hai .... mat lo is aap se saman,Punit
+R458,eebbdfb0-d2de-4bbb-affc-a37845eebe2e,Zepto,3,hinglish,Coupon kaam nahi karta hai,Arpita
+R459,56cd4cfc-8f5e-474f-8df9-58c0e152bb66,Nykaa,1,hinglish,Mujhe mera pordact nhi mila,Harsh
+R460,b6869f98-ce57-404f-9f43-20dc8a4006cf,Blinkit,1,hinglish,isko open karne lage open hi nahin hota bahut bekar hai,Punit
+R461,1644c32b-c913-4105-909a-5f21ab5155e9,Meesho,5,hinglish,Bahut achcha app hai,Arpita
+R462,620ec447-ae9d-485f-966d-7635911b4d8b,Zepto,3,hinglish,sab Lutne wali company,Harsh
+R463,89d166e0-87b7-496c-a327-55ef5969953e,Meesho,1,hinglish,video real sev karne ka option nahin Hai 😿,Punit
+R464,ae70657a-8468-4182-a87e-cbc035979808,Meesho,4,hinglish,Yaha Saman achha aata hai aur paisa bhi kam lagta hai . saman nahi chahiye to Lo use karo return karo,Arpita
+R465,2f83bc44-ca65-475f-8f70-d633b57e472d,Zepto,5,hinglish,muje bahut acha laga,Harsh
+R466,2bb5c370-ba4b-48e4-972c-ce48f3f74437,Meesho,1,hinglish,bhai ye ap bhout bekar he kabhi time se order delevery nahi karta ha,Punit
+R467,f19b05e7-495e-455b-ad6e-0c84ce29c4fc,Blinkit,3,hinglish,first time kar raha abhi kya feedback du,Arpita
+R468,51ad15ef-0a5d-4931-9cea-e9003c6ad68d,Meesho,2,maybe,reat jada rahta hai,Harsh
+R469,862b3871-04ef-47ee-82ab-65f5f8d9c341,Zepto,3,maybe,Milk bahut bar that gya,Punit
+R470,7da1e888-b8de-4ad6-8684-f8ea286dccf8,Meesho,3,hinglish,achha bhi aata hai aur kabhi achha nahi bhi aata hai product,Arpita
+R471,6e0a7495-9eb2-459a-ac44-32ead60b6025,Meesho,2,maybe,"meesho pay later kaise eligible ho sakti hu, je galat baat hai,",Harsh
+R472,f89f5b80-52c2-4f4a-aa9c-09daf840629a,Meesho,3,hinglish,mere account ko block kar diya hai 😭,Punit
+R473,42eb2a22-6d49-4a00-8d1e-3e37dacecd07,Blinkit,5,hinglish,greate 😊 jab muze need hoti hai sab mil jaata hai thanks blinkit,Arpita
+R474,8353e4e3-e9cb-4a59-b8cd-8ae4ff847a6b,Blinkit,5,hinglish,Blinkit ka bahut dino se hamare aria mei intejar tha kuchh dino se available hua hai aur service bhi quick same time hai Thanks blinkit,Harsh
+R475,28bcd4c2-1863-41ef-9f0b-b8d4f38864b7,Blinkit,1,hinglish,bahut hi bekar aap hai paise bhi kat Gaye aur refund bhi nahi aaya 253 rs 3 din ho gya abhi tak nahi aaya,Punit
+R476,db2fdc27-89ef-4b61-8485-de72eb5fdd73,Nykaa,1,hinglish,bhut bura experience raha mera .. worse.. mere Sath froud hua Hai nykaa mein first order Kiya Maine to theek tha.. first order mein Maine makeup brush pizza pufff vagaira mangaya tha to perfect tha sab theek tha.. but jab Maine second order place Kiya cosmetic ka bhai mere Sath scam Ho Gaya aur jab Maine usko return place kiya to bar bar mujhe bahane Diye Ja Rahe Hain ki idhar photo upload karo idhar comment karo sab kuchh jaisa jaisa inhone direct Kiya Maine har EK chij vaisa vaisa Kiya...worst,Arpita
+R477,c3cabfd1-8a4f-4d4e-a316-d63c6dae52e1,Meesho,1,hinglish,mene bag order ki thi jo photo me thi vo ayi nahi thi dusri ayi thi kirpa karkee comment pad le please bag dusra order de,Harsh
+R478,68615a78-10eb-4969-a88f-b1b8bb9e02df,Meesho,2,hinglish,messho hamre yaha service kyu provide nhi kara rha hai ye datri me service provide nhi kar raha hai,Punit
+R479,41acf315-4ff9-4df9-b34b-1da0ba2e80e1,Blinkit,3,hinglish,offers kam hai aur jada chhut honi chahiye products par,Arpita
+R480,e09f6002-c81b-4134-9ce6-8bf6c349f502,Zepto,1,hinglish,mere number par handling fee 40.00 add ho Raha hai kyo? thanswitch to bilkit instamart or filpcart bilkit handling charges₹ 5.00 filpcart 10 minutes ₹ 0 or instamart 10.00,Harsh
+R481,0035d12c-f631-4cd2-8950-e62be8a2ad9c,Meesho,1,hinglish,Bohot hi kharab Aap hai koi ise Daunlod na kare koi bi account na banae ek bar account banane ke bad fir vo kbi delete nahi hota hai bohot kharab Aap hai,Punit
+R482,d6b6041e-ad94-4822-9861-6ccd20b2ba36,Meesho,4,hinglish,bahut achcha hai per kabhi-kabhi dusra Saman a jata hai,Arpita
+R483,48458b48-6e4f-435a-a131-73a30a75ea75,Zepto,3,hinglish,abhi rakshabandhan ka deal chal raha hai magar zepto ne store maintenance bol ke do din se samaan nahi de raha hai cart nahi dhikha raha hai.o or jab cart dikhayega tab tak samaan ka rate bada dega yahi complain rehta hai zepto se,Harsh
+R484,8766f10a-98cd-4982-93a3-c1dccfc5cec8,Blinkit,2,hinglish,first order 50% of bolkar Ek bhi percent free nahin diya hai full payment,Punit
+R485,255030fb-1719-44c8-94e9-e5a238641c80,Zepto,1,hinglish,bekar hai farud log hai isse bachke raho sab maine order Kiya 2 product to delevery vale ne bola ki ek bhul gya hun sir thodi der main de jaunga payment pora kar diya maine sochke ki ayga banda gayab ho gya or aaya nhi pori raat intjar Kiya call ka uska phir help leni chaiye support and help zepto app main to inhone kaha ki ab kuch nhi ho sakta ...bakwaas hai koi mat download Karo maine apni pori family se delete karwa diya bakwaas app consumer court jaunga main cctv recording bhi hai bande ki,Arpita
+R486,0c2c42a5-d333-44d2-96ab-5204f5681214,Meesho,1,maybe,sabse kharb hr yeh application mene galti se 500 rupiye meesho benk me liye he to. na us rupiya se koi product aata he,Harsh
+R487,64a130f1-7cd6-49a4-bbb1-5b1553890a0e,Meesho,1,maybe,bahot mahanga saman deta hai,Punit
+R488,211c92ec-b6ef-413e-98c7-d4f1a6476fe7,Nykaa,1,hinglish,Yah app open hee nhi ho rha hai,Arpita
