@@ -67,6 +67,10 @@ df = pd.read_csv("data/final_dataset.csv")
 # Open dashboard/index.html in any browser — no server needed
 ```
 
+## Live inference dashboard
+
+The static dashboard can look up saved predictions offline, but new reviews need the trained checkpoint and the API. The final export cell in `notebooks/06_final_experiments.ipynb` now saves the validation-selected model and tokenizer. Follow [`backend/README.md`](backend/README.md) to copy that artifact into `artifacts/best_model/`, install `requirements-api.txt`, and run the dashboard/API on one local origin. Without the checkpoint, the site clearly marks new-review outputs as keyword estimates. Model weights are intentionally excluded from Git.
+
 ## Status
 
 This is ongoing work. Current focus: an aspect-aware retriever, a proper re-implementation of the base paper (CMF_HIT) as an additional baseline, and preparing a short paper describing the dataset and findings.
